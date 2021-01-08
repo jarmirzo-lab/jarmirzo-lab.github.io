@@ -1,26 +1,263 @@
-body{
+@media screen and (min-device-width:0px) and (max-device-width:320px) {
+    table{width:90%}
+    body{
+    background:url(bayernfon.jpeg);
+    background-repeat: no-repeat;
+    background-size:100%;
     font-family:arial;
-    background:url(bayernfon.jpeg) repeat top fixed;
-    background-size:1800px 1000px;
-    
 }
-h1{
-    color:black;
-    font-size:65px;
-    text-align:center;
-}
-.center{
+    .center{
     margin-left:auto;
     margin-right:auto;
 }
-#one{
+    h1{
+    color:white;
+    font-size:65px;
+    text-align:center;
+}
+    table{
+    font-size:25px;
+    color:white;
+    }
+    #one{
     color:gold;
 }
-#two{
+    #two{
     color:silver;
 }
-
-table{
-    font-size:25px;
-    color:black;
 }
+
+@media screen and (min-device-width:321px) and (max-device-width:480px) {
+    table{width:90%}
+    body{
+    background:url(bayernfon.jpeg);
+    background-repeat: no-repeat;
+    background-size:100%;
+    font-family:arial;
+}
+    }
+    .center{
+    margin-left:auto;
+    margin-right:auto;
+}
+    h1{
+    color:white;
+    font-size:65px;
+    text-align:center;
+}
+    table{
+    font-size:25px;
+    color:white;
+    }
+    #one{
+    color:gold;
+}
+    #two{
+    color:silver;
+}
+}
+
+@media screen and (min-device-width:481px) and (max-device-width:600px) {
+    table{width:90%}
+    body{
+    background:url(bayernfon.jpeg);
+    background-repeat: no-repeat;
+    background-size:100%;
+    font-family:arial;
+}
+    .center{
+    margin-left:auto;
+    margin-right:auto;
+}
+    h1{
+    color:white;
+    font-size:65px;
+    text-align:center;
+}
+    table{
+    font-size:25px;
+    color:white;
+    }
+    #one{
+    color:gold;
+}
+    #two{
+    color:silver;
+}
+}
+
+@media screen and (min-device-width:601px) and (max-device-width:660px) {
+    table{width:90%}
+    body{
+    background:url(bayernfon.jpeg);
+    background-repeat: no-repeat;
+    background-size:100%;
+    font-family:arial;
+}
+    .center{
+    margin-left:auto;
+    margin-right:auto;
+}
+    h1{
+    color:white;
+    font-size:65px;
+    text-align:center;
+}
+    table{
+    font-size:25px;
+    color:white;
+    }
+    #one{
+    color:gold;
+}
+    #two{
+    color:silver;
+}
+}
+
+@media screen and (min-device-width:661px) and (max-device-width:1025px) {
+    table{width:90%}
+    body{
+    background:url(bayernfon.jpeg);
+    background-repeat: no-repeat;
+    background-size:100%;
+    font-family:arial;
+}
+    .center{
+    margin-left:auto;
+    margin-right:auto;
+}
+    h1{
+    color:white;
+    font-size:65px;
+    text-align:center;
+}
+    table{
+    font-size:25px;
+    color:white;
+    }
+    #one{
+    color:gold;
+}
+    #two{
+    color:silver;
+}
+}
+
+@media screen and (min-device-width:1026px) and (max-device-width:1299px) {
+    table{width:90%}
+    body{
+    background:url(bayernfon.jpeg);
+    background-repeat: no-repeat;
+    background-size:100%;
+    font-family:arial;
+}
+    .center{
+    margin-left:auto;
+    margin-right:auto;
+}
+    h1{
+    color:white;
+    font-size:65px;
+    text-align:center;
+}
+    table{
+    font-size:25px;
+    color:white;
+    }
+    #one{
+    color:gold;
+}
+    #two{
+    color:silver;
+}
+}
+
+@media screen and (min-device-width:1300px) and (max-device-width:2000px) {
+    table{width:90%}
+   body{
+    background:url(bayernfon.jpeg);
+    background-repeat: no-repeat;
+    background-size:100%;
+    font-family:arial;
+}
+    .center{
+    margin-left:auto;
+    margin-right:auto;
+}
+    h1{
+    color:white;
+    font-size:65px;
+    text-align:center;
+}
+    table{
+    font-size:25px;
+    color:white;
+    }
+    #one{
+    color:gold;
+}
+    #two{
+    color:silver;
+}
+}
+
+@media screen and (min-device-width:2001px) and (max-device-width:3000px) {
+    table{width:90%}
+    body{
+    background:url(bayernfon.jpeg);
+    background-repeat: no-repeat;
+    background-size:100%;
+    font-family:arial;
+}
+    .center{
+    margin-left:auto;
+    margin-right:auto;
+}
+    h1{
+    color:white;
+    font-size:75px;
+    text-align:center;
+}
+    table{
+    font-size:25px;
+    color:white;
+    }
+    #one{
+    color:gold;
+}
+    #two{
+    color:silver;
+}
+}
+
+@media screen and (min-device-width:3001px) and (max-device-width:5000px) {
+    table{width:90%}
+    body{
+    background:url(bayernfon.jpeg);
+    background-repeat: no-repeat;
+    background-size:100%;
+    font-family:arial;
+}
+    .center{
+    margin-left:auto;
+    margin-right:auto;
+}
+    h1{
+    color:white;
+    font-size:80px;
+    text-align:center;
+}
+    table{
+    font-size:25px;
+    color:white;
+    }
+    #one{
+    color:gold;
+}
+    #two{
+    color:silver;
+}
+}
+
+
