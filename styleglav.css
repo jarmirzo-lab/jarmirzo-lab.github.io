@@ -1,9 +1,8 @@
 @media screen and (min-device-width:0px) and (max-device-width:320px) {
     table{width:90%}
     body{
-    background:url(realmadridfon.jpg);
-    background-repeat: no-repeat;
-    background-size:100%;
+    background:url(realmadridfon.jpg) top;
+    background-repeat: repeat;
     font-family:arial;
 }
 h1{
@@ -21,19 +20,36 @@ h1{
 #two{
     color:silver;
 }
-
+#three{
+    border:solid;
+    font-size:40px;
+}
 table{
-    font-size:25px;
+    font-size:27.77px;
     color:white;
 }
+    td{
+        text-align:center;
+    }
+    a:link{
+        text-decoration:underline;
+        color:white;
+    }
+    a:active{
+        text-decoration:none;
+        color:white;
+    }
+    a:visited{
+        text-decoration:underline;
+        color:skyblue;
+    }
 }
 
 @media screen and (min-device-width:321px) and (max-device-width:480px) {
     table{width:90%}
    body{
-    background:url(realmadridfon.jpg);
-    background-repeat: no-repeat;
-    background-size:100%;
+    background:url(realmadridfon.jpg) top;
+    background-repeat: repeat;
     font-family:arial;
 }
 h1{
@@ -51,19 +67,36 @@ h1{
 #two{
     color:silver;
 }
-
+#three{
+    border:solid;
+    font-size:40px;
+}
 table{
-    font-size:25px;
+    font-size:27.77px;
     color:white;
 }
+     td{
+        text-align:center;
+    }
+    a:link{
+        text-decoration:underline;
+        color:white;
+    }
+    a:active{
+        text-decoration:none;
+        color:white;
+    }
+    a:visited{
+        text-decoration:underline;
+        color:skyblue;
+    }
 }
 
 @media screen and (min-device-width:481px) and (max-device-width:600px) {
     table{width:90%}
     body{
-    background:url(realmadridfon.jpg);
-    background-repeat: no-repeat;
-    background-size:100%;
+    background:url(realmadridfon.jpg) top;
+    background-repeat: repeat;
     font-family:arial;
 }
 h1{
@@ -81,19 +114,36 @@ h1{
 #two{
     color:silver;
 }
-
+#three{
+    border:solid;
+    font-size:40px;
+}
 table{
-    font-size:25px;
+    font-size:30px;
     color:white;
 }
+     td{
+        text-align:center;
+    }
+    a:link{
+        text-decoration:underline;
+        color:white;
+    }
+    a:active{
+        text-decoration:none;
+        color:white;
+    }
+    a:visited{
+        text-decoration:underline;
+        color:skyblue;
+    }
 }
 
 @media screen and (min-device-width:601px) and (max-device-width:660px) {
     table{width:90%}
    body{
-    background:url(realmadridfon.jpg);
-    background-repeat: no-repeat;
-    background-size:100%;
+    background:url(realmadridfon.jpg) top;
+    background-repeat: repeat;
     font-family:arial;
 }
 h1{
@@ -111,19 +161,36 @@ h1{
 #two{
     color:silver;
 }
-
+#three{
+    border:solid;
+    font-size:40px;
+}
 table{
     font-size:25px;
     color:white;
 }
+     td{
+        text-align:center;
+    }
+    a:link{
+        text-decoration:underline;
+        color:white;
+    }
+    a:active{
+        text-decoration:none;
+        color:white;
+    }
+    a:visited{
+        text-decoration:underline;
+        color:skyblue;
+    }
 }
 
 @media screen and (min-device-width:661px) and (max-device-width:1025px) {
     table{width:90%}
    body{
-    background:url(realmadridfon.jpg);
-    background-repeat: no-repeat;
-    background-size:100%;
+    background:url(realmadridfon.jpg) top;
+    background-repeat: repeat;
     font-family:arial;
 }
 h1{
@@ -141,21 +208,85 @@ h1{
 #two{
     color:silver;
 }
-
+#three{
+    border:solid;
+    font-size:40px;
+}
 table{
-    font-size:25px;
+    font-size:30px;
     color:white;
 }
+     td{
+        text-align:center;
+    }
+    a:link{
+        text-decoration:underline;
+        color:white;
+    }
+    a:active{
+        text-decoration:none;
+        color:white;
+    }
+    a:visited{
+        text-decoration:underline;
+        color:skyblue;
+    }
 }
 
 @media screen and (min-device-width:1026px) and (max-device-width:1299px) {
     table{width:90%}
    body{
-    background:url(realmadridfon.jpg);
-    background-repeat: no-repeat;
-    background-size:100%;
+    background:url(realmadridfon.jpg) top;
+    background-repeat: repeat;
     font-family:arial;
 }
+h1{
+    color:white;
+    font-size:70px;
+    text-align:center;
+}
+.center{
+    margin-left:auto;
+    margin-right:auto;
+}
+#one{
+    color:gold;
+}
+#two{
+    color:silver;
+}
+#three{
+    border:solid;
+    font-size:40px;
+}
+table{
+    font-size:40px;
+    color:white;
+}
+     td{
+        text-align:center;
+    }
+    a:link{
+        text-decoration:underline;
+        color:white;
+    }
+    a:active{
+        text-decoration:none;
+        color:white;
+    }
+    a:visited{
+        text-decoration:underline;
+        color:skyblue;
+    }
+}
+
+@media screen and (min-device-width:1300px) and (max-device-width:2000px) {
+    table{width:90%}
+    body{
+    background:url(realmadridfon.jpg) top;
+    background-repeat: repeat;
+    font-family:arial;
+}   
 h1{
     color:white;
     font-size:80px;
@@ -171,40 +302,29 @@ h1{
 #two{
     color:silver;
 }
-
 table{
-    font-size:45px;
+    font-size:50px;
     color:white;
 }
+#three{
+    border:solid;
+    font-size:40px;
 }
-
-@media screen and (min-device-width:1300px) and (max-device-width:2000px) {
-    table{width:90%}
-    body{
-    background:url(realmadridfon.jpg);
-    background-repeat: no-repeat;
-    background-size:100%;
-    font-family:arial;
-}   
-h1{
-    color:white;
-    font-size:85px;
-    text-align:center;
-}
-.center{
-    margin-left:auto;
-    margin-right:auto;
-}
-#one{
-    color:gold;
-}
-#two{
-    color:silver;
-}
-table{
-    font-size:55px;
-    color:white;
-}
+     td{
+        text-align:center;
+    }
+    a:link{
+        text-decoration:underline;
+        color:white;
+    }
+    a:active{
+        text-decoration:none;
+        color:white;
+    }
+    a:visited{
+        text-decoration:underline;
+        color:skyblue;
+    }
 }
 
 @media screen and (min-device-width:2001px) and (max-device-width:3000px) {
@@ -217,7 +337,7 @@ table{
 }
 h1{
     color:white;
-    font-size:130px;
+    font-size:180px;
     text-align:center;
 }
 .center{
@@ -230,24 +350,42 @@ h1{
 #two{
     color:silver;
 }
+#three{
+    border:solid;
+    font-size:40px;
+}
 
 table{
-    font-size:70px;
+    font-size:100px;
     color:white;
 }
+     td{
+        text-align:center;
+    }
+    a:link{
+        text-decoration:underline;
+        color:white;
+    }
+    a:active{
+        text-decoration:none;
+        color:white;
+    }
+    a:visited{
+        text-decoration:underline;
+        color:skyblue;
+    }
 }
 
 @media screen and (min-device-width:3001px) and (max-device-width:5000px) {
     table{width:90%}
    body{
-    background:url(realmadridfon.jpg);
-    background-repeat: no-repeat;
-    background-size:100%;
+    background:url(realmadridfon.jpg) top;
+    background-repeat: repeat;
     font-family:arial;
 }
 h1{
     color:white;
-    font-size:160px;
+    font-size:240px;
     text-align:center;
 }
 .center{
@@ -260,9 +398,27 @@ h1{
 #two{
     color:silver;
 }
-
+#three{
+    border:solid;
+    font-size:40px;
+}
 table{
-    font-size:75px;
+    font-size:130px;
     color:white;
 }
+     td{
+        text-align:center;
+    }
+    a:link{
+        text-decoration:underline;
+        color:white;
+    }
+    a:active{
+        text-decoration:none;
+        color:white;
+    }
+    a:visited{
+        text-decoration:underline;
+        color:skyblue;
+    }
 }
