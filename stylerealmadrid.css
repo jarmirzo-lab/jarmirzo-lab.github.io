@@ -1,0 +1,25 @@
+body{
+font-family:arial;
+    background:url(indexrealmadridfon.png);
+    background:no-repeat;
+    background-size:100%;
+}
+h1{
+    text-align:center;
+    font-size:50px;
+}
+h1{
+    text-align:center;
+}
+h2{
+    text-align:center;
+    font-size:40px;
+}
+.center{
+    margin-left:auto;
+    margin-right:auto; 
+}
+table{
+ font-size:35px;
+    width:550px;
+}
