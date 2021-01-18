@@ -1,8 +1,8 @@
 @media screen and (min-device-width:0px) and (max-device-width:320px) {
     table{width:90%}
     body{
-    background:url(bayernfon.jpeg);
-    background-repeat: no-repeat;
+    background:url(liverpoolfon.jpg);
+    background-repeat: repeat;
     background-size:100%;
     font-family:arial;
 }
@@ -30,12 +30,11 @@
 @media screen and (min-device-width:321px) and (max-device-width:480px) {
     table{width:90%}
     body{
-    background:url(bayernfon.jpeg);
-    background-repeat: no-repeat;
+    background:url(liverpoolfon.jpg);
+    background-repeat: repeat;
     background-size:100%;
     font-family:arial;
 }
-    }
     .center{
     margin-left:auto;
     margin-right:auto;
@@ -60,8 +59,8 @@
 @media screen and (min-device-width:481px) and (max-device-width:600px) {
     table{width:90%}
     body{
-    background:url(bayernfon.jpeg);
-    background-repeat: no-repeat;
+    background:url(liverpoolfon.jpg);
+    background-repeat: repeat;
     background-size:100%;
     font-family:arial;
 }
@@ -89,8 +88,8 @@
 @media screen and (min-device-width:601px) and (max-device-width:660px) {
     table{width:90%}
     body{
-    background:url(bayernfon.jpeg);
-    background-repeat: no-repeat;
+    background:url(liverpoolfon.jpg);
+    background-repeat: repeat;
     background-size:100%;
     font-family:arial;
 }
@@ -118,8 +117,8 @@
 @media screen and (min-device-width:661px) and (max-device-width:1025px) {
     table{width:90%}
     body{
-    background:url(bayernfon.jpeg);
-    background-repeat: no-repeat;
+    background:url(liverpoolfon.jpg);
+    background-repeat: repeat;
     background-size:100%;
     font-family:arial;
 }
@@ -147,8 +146,8 @@
 @media screen and (min-device-width:1026px) and (max-device-width:1299px) {
     table{width:90%}
     body{
-    background:url(bayernfon.jpeg);
-    background-repeat: no-repeat;
+    background:url(liverpoolfon.jpg);
+    background-repeat: repeat;
     background-size:100%;
     font-family:arial;
 }
@@ -176,8 +175,8 @@
 @media screen and (min-device-width:1300px) and (max-device-width:2000px) {
     table{width:90%}
    body{
-    background:url(bayernfon.jpeg);
-    background-repeat: no-repeat;
+    background:url(liverpoolfon.jpg);
+    background-repeat: repeat;
     background-size:100%;
     font-family:arial;
 }
@@ -203,39 +202,67 @@
 }
 
 @media screen and (min-device-width:2001px) and (max-device-width:3000px) {
-    table{width:90%}
-    body{
-    background:url(bayernfon.jpeg);
-    background-repeat: no-repeat;
+    table{width:95%}
+   body{
+    background:url(milanfon.png) top;
+    background-repeat: repeat;
     background-size:100%;
     font-family:arial;
 }
-    .center{
+h1{
+    color:white;
+    font-size:600px;
+    text-align:center;
+}
+.center{
     margin-left:auto;
     margin-right:auto;
 }
-    h1{
-    color:white;
-    font-size:75px;
-    text-align:center;
-}
-    table{
-    font-size:25px;
-    color:white;
-    }
-    #one{
+#one{
     color:gold;
 }
-    #two{
+#two{
     color:silver;
 }
+#three{
+    border:solid;
+    font-size:400px;
+}
+#four{
+    margin-right:250px;     
+}
+#five{
+    width:300px;   
+    }
+#six{
+    width:3800px; 
+    }
+table{
+    font-size:390px;
+    color:white;
+}
+td{
+    text-align:center;
+    }
+a:link{
+    text-decoration:underline;
+    color:white;
+    }
+a:active{
+    text-decoration:none;
+    color:white;
+    }
+a:visited{
+    text-decoration:underline;
+    color:skyblue;
+    }
 }
 
 @media screen and (min-device-width:3001px) and (max-device-width:5000px) {
     table{width:90%}
     body{
-    background:url(bayernfon.jpeg);
-    background-repeat: no-repeat;
+    background:url(liverpoolfon.jpg);
+    background-repeat: repeat;
     background-size:100%;
     font-family:arial;
 }

@@ -26,6 +26,9 @@
     border:solid;
     border-width:5px
     }
+    #one{
+        font-size:40px;
+    }
        a:link{
         text-decoration:underline;
         color:white;
@@ -185,6 +188,9 @@
     border:solid;
     border-width:5px
     }
+    #one{
+        font-size:40px;
+    }
        a:link{
         text-decoration:underline;
         color:white;
@@ -224,6 +230,9 @@
     border:solid;
     border-width:5px
     }
+    #one{
+        font-size:45px;
+    }
        a:link{
         text-decoration:underline;
         color:white;
@@ -262,6 +271,9 @@
     text-align:center;
     border:solid;
     border-width:5px
+    }
+    #one{
+        font-size:50px;
     }
     a:link{
         text-decoration:underline;
