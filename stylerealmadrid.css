@@ -1,8 +1,8 @@
 body{
-font-family:arial;
-    background:url(indexrealmadridfon.png);
-    background:no-repeat;
+    background:url(indexrealmadridfon.png) top;
+    background-repeat: repeat;
     background-size:100%;
+    font-family:arial;
 }
 h1{
     text-align:center;
@@ -24,5 +24,12 @@ table{
     width:650px;
 }
 #one{
-    width:80px;
+    width:60px;
+}
+#two{
+    height:210px;
+    width:400px;
+}
+td{
+    text-align:center;
 }
