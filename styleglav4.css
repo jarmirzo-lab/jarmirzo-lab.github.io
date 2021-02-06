@@ -27,6 +27,9 @@ h1{
 #four{
     margin-right:53px;     
 }
+#five{
+    width:60px;
+}
 #six{
     width:100px; 
     }
@@ -350,25 +353,25 @@ table{
     margin-right:103px;     
 }
 #five{
-    width:100px;   
-    }
-    #six{
+    width:70px;   
+}
+#six{
     width:500px; 
+}
+td{
+    text-align:center;
     }
-     td{
-        text-align:center;
+a:link{
+    text-decoration:underline;
+    color:skyblue;
     }
-    a:link{
-        text-decoration:underline;
-        color:skyblue;
+a:active{
+    text-decoration:none;
+    color:white;
     }
-    a:active{
-        text-decoration:none;
-        color:white;
-    }
-    a:visited{
-        text-decoration:underline;
-        color:skyblue;
+a:visited{
+    text-decoration:underline;
+    color:skyblue;
     }
 }
 
@@ -460,7 +463,7 @@ h1{
     margin-right:300px;     
 }
 #five{
-    width:300px;   
+    width:200px;   
     }
 #six{
     width:1000px; 

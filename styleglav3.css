@@ -27,6 +27,9 @@ h1{
 #four{
     margin-right:53px;     
 }
+#five{
+    width:60px;
+}
 #six{
     width:100px; 
     }
@@ -80,6 +83,9 @@ h1{
 #four{
     margin-right:53px;     
 }
+#five{
+    width:65px;
+}
 #six{
     width:120px; 
     }
@@ -87,8 +93,8 @@ table{
     font-size:27.77px;
     color:white;
 }
-     td{
-        text-align:center;
+td{
+    text-align:center;
     }
     a:link{
         text-decoration:underline;
@@ -132,6 +138,9 @@ h1{
 }
 #four{
     margin-right:53px;     
+}
+#five{
+    width:68px;
 }
 #six{
     width:250px; 
@@ -186,6 +195,9 @@ h1{
 #four{
     margin-right:53px;     
 }
+#five{
+    width:75px;
+}
 #six{
     width:260px; 
     }
@@ -239,6 +251,9 @@ h1{
 #four{
     margin-right:53px;     
 }
+#five{
+    width:70px;
+}
 #six{
     width:300px; 
     }
@@ -290,7 +305,7 @@ h1{
     font-size:40px;
 }
 #four{
-    margin-right:60px;     
+    margin-right:80px;     
 }
     
 #six{
@@ -340,7 +355,7 @@ h1{
     color:silver;
 }
 table{
-    font-size:60px;
+    font-size:50px;
     color:white;
 }
 #three{
@@ -348,10 +363,10 @@ table{
     font-size:40px;
 }
 #four{
-    margin-right:103px;     
+    margin-right:45px;     
 }
 #five{
-    width:100px;   
+    width:80px;  
     }
     #six{
     width:500px; 
@@ -486,5 +501,3 @@ table{
         color:skyblue;
     }
 }
-
-

@@ -24,6 +24,15 @@ h1{
     border:solid;
     font-size:40px;
 }
+#four{
+    margin-right:53px;     
+}
+#five{
+     width:60px;   
+    }
+#six{
+    width:100px; 
+    }
 table{
     font-size:27.77px;
     color:white;
@@ -71,6 +80,15 @@ h1{
     border:solid;
     font-size:40px;
 }
+#four{
+    margin-right:53px;     
+}
+#five{
+    width:65px;  
+    }
+#six{
+    width:120px; 
+    }
 table{
     font-size:27.77px;
     color:white;
@@ -118,6 +136,15 @@ h1{
     border:solid;
     font-size:40px;
 }
+#four{
+    margin-right:53px;     
+}
+#six{
+    width:250px; 
+    }
+#five{
+     width:68px;   
+    }
 table{
     font-size:30px;
     color:white;
@@ -165,6 +192,15 @@ h1{
     border:solid;
     font-size:40px;
 }
+#four{
+    margin-right:53px;     
+}
+#five{
+     width:70px;   
+    }
+#six{
+    width:260px; 
+    }
 table{
     font-size:25px;
     color:white;
@@ -212,6 +248,15 @@ h1{
     border:solid;
     font-size:40px;
 }
+#four{
+    margin-right:53px;     
+}
+#five{
+     width:75px;   
+    }
+#six{
+    width:300px; 
+    }
 table{
     font-size:30px;
     color:white;
@@ -259,6 +304,15 @@ h1{
     border:solid;
     font-size:40px;
 }
+#four{
+    margin-right:60px;     
+}
+#five{
+     width:80px;   
+    }
+#six{
+    width:400px; 
+    }
 table{
     font-size:40px;
     color:white;
@@ -289,7 +343,7 @@ table{
 }   
 h1{
     color:white;
-    font-size:80px;
+    font-size:95px;
     text-align:center;
 }
 .center{
@@ -303,15 +357,24 @@ h1{
     color:silver;
 }
 table{
-    font-size:50px;
+    font-size:60px;
     color:white;
 }
 #three{
     border:solid;
     font-size:40px;
 }
-     td{
-        text-align:center;
+#four{
+    margin-right:103px;     
+}
+#five{
+    width:70px;   
+}
+#six{
+    width:500px; 
+}
+td{
+    text-align:center;
     }
     a:link{
         text-decoration:underline;
@@ -321,17 +384,17 @@ table{
         text-decoration:none;
         color:white;
     }
-    a:visited{
+a:visited{
         text-decoration:underline;
         color:skyblue;
-    }
+          }
 }
 
 @media screen and (min-device-width:2001px) and (max-device-width:3000px) {
     table{width:90%}
    body{
     background:url(realmadridfon.jpg);
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-size:100%;
     font-family:arial;
 }
@@ -352,8 +415,17 @@ h1{
 }
 #three{
     border:solid;
-    font-size:40px;
+    font-size:100px;
 }
+#four{
+    margin-right:103px;     
+}
+#five{
+    width:150px;   
+    }
+    #six{
+    width:700px; 
+    }
 table{
     font-size:100px;
     color:white;
@@ -375,11 +447,12 @@ table{
     }
 }
 
-@media screen and (min-device-width:3001px) and (max-device-width:5000px) {
+@media screen and (min-device-width:3001px) and (max-device-width:4000px) {
     table{width:90%}
    body{
     background:url(realmadridfon.jpg) top;
     background-repeat: repeat;
+    background-size:100%;
     font-family:arial;
 }
 h1{
@@ -399,10 +472,19 @@ h1{
 }
 #three{
     border:solid;
-    font-size:40px;
+    font-size:140px;
 }
+#four{
+    margin-right:300px;     
+}
+#five{
+    width:200px;   
+    }
+#six{
+    width:1000px; 
+    }
 table{
-    font-size:130px;
+    font-size:100px;
     color:white;
 }
      td{
@@ -419,5 +501,290 @@ table{
     a:visited{
         text-decoration:underline;
         color:skyblue;
+    }
+}
+
+@media screen and (min-device-width:4001px) and (max-device-width:5000px) {
+    table{width:90%}
+   body{
+    background:url(realmadridfon.jpg) top;
+    background-repeat: repeat;
+    background-size:100%;
+    font-family:arial;
+}
+h1{
+    color:white;
+    font-size:300px;
+    text-align:center;
+}
+.center{
+    margin-left:auto;
+    margin-right:auto;
+}
+#one{
+    color:gold;
+}
+#two{
+    color:silver;
+}
+#three{
+    border:solid;
+    font-size:140px;
+}
+#four{
+    margin-right:370px;     
+}
+#five{
+    width:300px;   
+    }
+#six{
+    width:1500px; 
+    }
+table{
+    font-size:190px;
+    color:white;
+}
+     td{
+        text-align:center;
+    }
+    a:link{
+        text-decoration:underline;
+        color:white;
+    }
+    a:active{
+        text-decoration:none;
+        color:white;
+    }
+    a:visited{
+        text-decoration:underline;
+        color:skyblue;
+    }
+}
+
+@media screen and (min-device-width:5001px) and (max-device-width:6000px) {
+    table{width:90%}
+   body{
+    background:url(realmadridfon.jpg) top;
+    background-repeat: repeat;
+    background-size:100%;
+    font-family:arial;
+}
+h1{
+    color:white;
+    font-size:400px;
+    text-align:center;
+}
+.center{
+    margin-left:auto;
+    margin-right:auto;
+}
+#one{
+    color:gold;
+}
+#two{
+    color:silver;
+}
+#three{
+    border:solid;
+    font-size:240px;
+}
+#four{
+    margin-right:370px;     
+}
+#five{
+    width:300px;   
+    }
+#six{
+    width:1900px; 
+    }
+table{
+    font-size:190px;
+    color:white;
+}
+     td{
+        text-align:center;
+    }
+    a:link{
+        text-decoration:underline;
+        color:white;
+    }
+    a:active{
+        text-decoration:none;
+        color:white;
+    }
+    a:visited{
+        text-decoration:underline;
+        color:skyblue;
+    }
+}
+
+@media screen and (min-device-width:6001px) and (max-device-width:7000px) {
+    table{width:90%}
+   body{
+    background:url(realmadridfon.jpg) top;
+    background-repeat: repeat;
+    background-size:100%;
+    font-family:arial;
+}
+h1{
+    color:white;
+    font-size:300px;
+    text-align:center;
+}
+.center{
+    margin-left:auto;
+    margin-right:auto;
+}
+#one{
+    color:gold;
+}
+#two{
+    color:silver;
+}
+#three{
+    border:solid;
+    font-size:140px;
+}
+#four{
+    margin-right:370px;     
+}
+#five{
+    width:300px;   
+    }
+#six{
+    width:1500px; 
+    }
+table{
+    font-size:190px;
+    color:white;
+}
+     td{
+        text-align:center;
+    }
+    a:link{
+        text-decoration:underline;
+        color:white;
+    }
+    a:active{
+        text-decoration:none;
+        color:white;
+    }
+    a:visited{
+        text-decoration:underline;
+        color:skyblue;
+    }
+}
+
+@media screen and (min-device-width:7001px) and (max-device-width:8000px) {
+    table{width:90%}
+   body{
+    background:url(realmadridfon.jpg) top;
+    background-repeat: repeat;
+    background-size:100%;
+    font-family:arial;
+}
+h1{
+    color:white;
+    font-size:300px;
+    text-align:center;
+}
+.center{
+    margin-left:auto;
+    margin-right:auto;
+}
+#one{
+    color:gold;
+}
+#two{
+    color:silver;
+}
+#three{
+    border:solid;
+    font-size:140px;
+}
+#four{
+    margin-right:370px;     
+}
+#five{
+    width:300px;   
+    }
+#six{
+    width:1500px; 
+    }
+table{
+    font-size:190px;
+    color:white;
+}
+     td{
+        text-align:center;
+    }
+    a:link{
+        text-decoration:underline;
+        color:white;
+    }
+    a:active{
+        text-decoration:none;
+        color:white;
+    }
+    a:visited{
+        text-decoration:underline;
+        color:skyblue;
+    }
+}
+
+@media screen and (min-device-width:8001px) and (max-device-width:9000px) {
+    table{width:95%}
+   body{
+    background:url(realmadridfon.jpg) top;
+    background-repeat: repeat;
+    background-size:100%;
+    font-family:arial;
+}
+h1{
+    color:white;
+    font-size:600px;
+    text-align:center;
+}
+.center{
+    margin-left:auto;
+    margin-right:auto;
+}
+#one{
+    color:gold;
+}
+#two{
+    color:silver;
+}
+#three{
+    border:solid;
+    font-size:400px;
+}
+#four{
+    margin-right:250px;     
+}
+#five{
+    width:500px;   
+    }
+#six{
+    width:3800px; 
+    }
+table{
+    font-size:390px;
+    color:white;
+}
+td{
+    text-align:center;
+    }
+a:link{
+    text-decoration:underline;
+    color:white;
+    }
+a:active{
+    text-decoration:none;
+    color:white;
+    }
+a:visited{
+    text-decoration:underline;
+    color:skyblue;
     }
 }

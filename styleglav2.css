@@ -27,6 +27,9 @@ h1{
 #four{
     margin-right:53px;     
 }
+#five{
+     width:60px;   
+    }
 #six{
     width:100px; 
     }
@@ -80,6 +83,9 @@ h1{
 #four{
     margin-right:53px;     
 }
+#five{
+    width:65px;  
+    }
 #six{
     width:120px; 
     }
@@ -136,6 +142,9 @@ h1{
 #six{
     width:250px; 
     }
+#five{
+     width:68px;   
+    }
 table{
     font-size:30px;
     color:white;
@@ -186,6 +195,9 @@ h1{
 #four{
     margin-right:53px;     
 }
+#five{
+     width:70px;   
+    }
 #six{
     width:260px; 
     }
@@ -239,6 +251,9 @@ h1{
 #four{
     margin-right:53px;     
 }
+#five{
+     width:75px;   
+    }
 #six{
     width:300px; 
     }
@@ -292,7 +307,9 @@ h1{
 #four{
     margin-right:60px;     
 }
-    
+#five{
+     width:80px;   
+    }
 #six{
     width:400px; 
     }
@@ -351,26 +368,26 @@ table{
     margin-right:103px;     
 }
 #five{
-    width:100px;   
-    }
-    #six{
+    width:70px;   
+}
+#six{
     width:500px; 
+}
+td{
+    text-align:center;
     }
-     td{
-        text-align:center;
+a:link{
+    text-decoration:underline;
+    color:white;
     }
-    a:link{
-        text-decoration:underline;
-        color:white;
+a:active{
+    text-decoration:none;
+    color:white;
     }
-    a:active{
-        text-decoration:none;
-        color:white;
-    }
-    a:visited{
+a:visited{
         text-decoration:underline;
         color:skyblue;
-    }
+          }
 }
 
 @media screen and (min-device-width:2001px) and (max-device-width:3000px) {
@@ -461,7 +478,7 @@ h1{
     margin-right:300px;     
 }
 #five{
-    width:300px;   
+    width:200px;   
     }
 #six{
     width:1000px; 
@@ -746,7 +763,7 @@ h1{
     margin-right:250px;     
 }
 #five{
-    width:300px;   
+    width:500px;   
     }
 #six{
     width:3800px; 
