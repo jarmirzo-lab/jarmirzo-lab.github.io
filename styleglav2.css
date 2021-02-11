@@ -40,18 +40,18 @@ table{
     td{
         text-align:center;
     }
-    a:link{
-        text-decoration:underline;
-        color:white;
-    }
-    a:active{
-        text-decoration:none;
-        color:white;
-    }
-    a:visited{
-        text-decoration:underline;
-        color:skyblue;
-    }
+a:link{
+    text-decoration:underline;
+    color:white;
+        }
+a:active{
+    text-decoration:none;
+    color:white;
+        }
+a:visited{
+    text-decoration:underline;
+    color:skyblue;
+        }
 }
 
 @media screen and (min-device-width:321px) and (max-device-width:480px) {

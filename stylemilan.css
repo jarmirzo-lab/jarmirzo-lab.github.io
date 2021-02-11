@@ -1,7 +1,7 @@
 @media screen and (min-device-width:0px) and (max-device-width:320px) {
     table{width:90%}
    body{
-    background:url(indexrealmadridfon.png) top;
+    background:url(indexmilanfon.jpg) top fixed;
     background-repeat: repeat;
     background-size:100%;
     font-family:arial;
@@ -9,10 +9,12 @@
 h1{
     text-align:center;
     font-size:50px;
+    color:white;
 }
 h2{
     text-align:center;
     font-size:40px;
+    color:white;
 }
 .center{
     margin-left:auto;
@@ -38,7 +40,7 @@ td{
 @media screen and (min-device-width:321px) and (max-device-width:480px) {
     table{width:90%}
    body{
-    background:url(indexrealmadridfon.png) top;
+    background:url(indexmilanfon.jpg) top fixed;
     background-repeat: repeat;
     background-size:100%;
     font-family:arial;
@@ -46,10 +48,12 @@ td{
 h1{
     text-align:center;
     font-size:50px;
+    color:white;
 }
 h2{
     text-align:center;
     font-size:40px;
+    color:white;
 }
 .center{
     margin-left:auto;
@@ -75,7 +79,7 @@ td{
 @media screen and (min-device-width:481px) and (max-device-width:600px) {
     table{width:90%}
    body{
-    background:url(indexrealmadridfon.png) top;
+    background:url(indexmilanfon.jpg) top fixed;
     background-repeat: repeat;
     background-size:100%;
     font-family:arial;
@@ -83,10 +87,12 @@ td{
 h1{
     text-align:center;
     font-size:50px;
+    color:white;
 }
 h2{
     text-align:center;
     font-size:40px;
+    color:white;
 }
 .center{
     margin-left:auto;
@@ -112,7 +118,7 @@ td{
 @media screen and (min-device-width:601px) and (max-device-width:660px) {
     table{width:90%}
    body{
-    background:url(indexrealmadridfon.png) top;
+    background:url(indexmilanfon.jpg) top fixed;
     background-repeat: repeat;
     background-size:100%;
     font-family:arial;
@@ -120,10 +126,12 @@ td{
 h1{
     text-align:center;
     font-size:50px;
+    color:white;
 }
 h2{
     text-align:center;
     font-size:40px;
+    color:white;
 }
 .center{
     margin-left:auto;
@@ -149,7 +157,7 @@ td{
 @media screen and (min-device-width:661px) and (max-device-width:1025px) {
     table{width:90%}
    body{
-    background:url(indexrealmadridfon.png) top;
+    background:url(indexmilanfon.jpg) top fixed;
     background-repeat: repeat;
     background-size:100%;
     font-family:arial;
@@ -157,10 +165,12 @@ td{
 h1{
     text-align:center;
     font-size:50px;
+    color:white;
 }
 h2{
     text-align:center;
     font-size:40px;
+    color:white;
 }
 .center{
     margin-left:auto;
@@ -186,7 +196,7 @@ td{
 @media screen and (min-device-width:1026px) and (max-device-width:1299px) {
     table{width:90%}
    body{
-    background:url(indexrealmadridfon.png) top;
+    background:url(indexmilanfon.jpg) top fixed;
     background-repeat: repeat;
     background-size:100%;
     font-family:arial;
@@ -194,10 +204,12 @@ td{
 h1{
     text-align:center;
     font-size:55px;
+    color:white;
 }
 h2{
     text-align:center;
     font-size:45px;
+    color:white;
 }
 .center{
     margin-left:auto;
@@ -223,7 +235,7 @@ td{
 @media screen and (min-device-width:1300px) and (max-device-width:2000px) {
     table{width:90%}
 body{
-    background:url(indexrealmadridfon.png) top;
+    background:url(indexmilanfon.jpg) top fixed;
     background-repeat: repeat;
     background-size:100%;
     font-family:arial;
@@ -231,10 +243,12 @@ body{
 h1{
     text-align:center;
     font-size:50px;
+    color:white;
 }
 h2{
     text-align:center;
     font-size:40px;
+    color:white;
 }
 .center{
     margin-left:auto;
@@ -260,7 +274,7 @@ td{
 @media screen and (min-device-width:2001px) and (max-device-width:3000px) {
     table{width:90%}
     body{
-    background:url(indexrealmadridfon.png) top;
+    background:url(indexmilanfon.jpg) top fixed;
     background-repeat: repeat;
     background-size:100%;
     font-family:arial;
@@ -268,10 +282,12 @@ td{
 h1{
     text-align:center;
     font-size:90px;
+    color:white;
 }
 h2{
     text-align:center;
     font-size:80px;
+    color:white;
 }
 .center{
     margin-left:auto;
@@ -297,7 +313,7 @@ td{
 @media screen and (min-device-width:3001px) and (max-device-width:3500px) {
     table{width:90%}
   body{
-    background:url(indexrealmadridfon.png) top;
+    background:url(indexmilanfon.jpg) top fixed;
     background-repeat: repeat;
     background-size:100%;
     font-family:arial;
@@ -305,10 +321,12 @@ td{
 h1{
     text-align:center;
     font-size:145px;
+    color:white;
 }
 h2{
     text-align:center;
     font-size:110px;
+    color:white;
 }
 .center{
     margin-left:auto;
@@ -334,7 +352,7 @@ td{
 @media screen and (min-device-width:3501px) and (max-device-width:4000px) {
     table{width:90%}
   body{
-    background:url(indexrealmadridfon.png) top;
+    background:url(indexmilanfon.jpg) top fixed;
     background-repeat: repeat;
     background-size:100%;
     font-family:arial;
@@ -342,10 +360,12 @@ td{
 h1{
     text-align:center;
     font-size:165px;
+    color:white;
 }
 h2{
     text-align:center;
     font-size:130px;
+    color:white;
 }
 .center{
     margin-left:auto;

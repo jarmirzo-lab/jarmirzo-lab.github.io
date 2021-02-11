@@ -363,28 +363,28 @@ table{
     font-size:40px;
 }
 #four{
-    margin-right:45px;     
+    margin-right:0px;     
 }
 #five{
-    width:80px;  
+    width:60px;  
     }
-    #six{
+#six{
     width:500px; 
     }
-     td{
-        text-align:center;
+td{
+    text-align:center;
     }
-    a:link{
-        text-decoration:underline;
-        color:white;
+a:link{
+    text-decoration:underline;
+    color:white;
     }
-    a:active{
-        text-decoration:none;
-        color:white;
+a:active{
+    text-decoration:none;
+    color:white;
     }
-    a:visited{
-        text-decoration:underline;
-        color:skyblue;
+a:visited{
+    text-decoration:underline;
+    color:skyblue;
     }
 }
 
@@ -473,10 +473,10 @@ h1{
     font-size:140px;
 }
 #four{
-    margin-right:300px;     
+    margin-right:100px;     
 }
 #five{
-    width:300px;   
+    width:250px;   
     }
 #six{
     width:1000px; 
