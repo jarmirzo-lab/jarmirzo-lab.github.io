@@ -25,16 +25,16 @@ h1{
     font-size:40px;
 }
 #four{
-    margin-right:53px;     
+    margin-right:53px;
 }
 #five{
     width:60px;
 }
 #six{
-    width:100px; 
+    width:250px; 
     }
 table{
-    font-size:27.77px;
+    font-size:34px;
     color:skyblue;
 }
 td{
@@ -80,8 +80,11 @@ h1{
     font-size:40px;
 }
 #four{
-    margin-right:53px;     
+    margin-right:60px;     
 }
+#five{
+    width:70px;
+    }
 #six{
     width:120px; 
     }
@@ -89,20 +92,20 @@ table{
     font-size:27.77px;
     color:skyblue;
 }
-     td{
-        text-align:center;
+td{
+    text-align:center;
+   }
+a:link{
+    text-decoration:underline;
+    color:white;
     }
-    a:link{
-        text-decoration:underline;
-        color:white;
+a:active{
+    text-decoration:none;
+    color:white;
     }
-    a:active{
-        text-decoration:none;
-        color:white;
-    }
-    a:visited{
-        text-decoration:underline;
-        color:skyblue;
+a:visited{
+    text-decoration:underline;
+    color:skyblue;
     }
 }
 
@@ -135,6 +138,9 @@ h1{
 #four{
     margin-right:53px;     
 }
+#five{
+    width:60px;
+    }
 #six{
     width:250px; 
     }
@@ -188,6 +194,9 @@ h1{
 #four{
     margin-right:53px;     
 }
+#five{
+    width:40px;
+    }
 #six{
     width:260px; 
     }
@@ -241,6 +250,9 @@ h1{
 #four{
     margin-right:53px;     
 }
+#five{
+    width:60px;
+    }
 #six{
     width:300px; 
     }
@@ -294,7 +306,9 @@ h1{
 #four{
     margin-right:60px;     
 }
-    
+#five{
+    width:70px;
+    } 
 #six{
     width:400px; 
     }
@@ -319,7 +333,7 @@ table{
     }
 }
 
-@media screen and (min-device-width:1300px) and (max-device-width:2000px) {
+@media screen and (min-device-width:1300px) and (max-device-width:1500px) {
     table{width:90%}
     body{
     background:url(bayernfon.jpg) top;
@@ -375,7 +389,7 @@ a:visited{
     }
 }
 
-@media screen and (min-device-width:2001px) and (max-device-width:3000px) {
+@media screen and (min-device-width:1501px) and (max-device-width:2000px) {
     table{width:90%}
     body{
     background:url(bayernfon.jpg);
@@ -385,7 +399,64 @@ a:visited{
 }
 h1{
     color:white;
-    font-size:180px;
+    font-size:90px;
+    text-align:center;
+}
+.center{
+    margin-left:auto;
+    margin-right:auto;
+}
+#one{
+    color:gold;
+}
+#two{
+    color:silver;
+}
+#three{
+    border:solid;
+    font-size:60px;
+}
+#four{
+    margin-right:100px;     
+}
+#five{
+    width:100px;   
+}
+#six{
+    width:500px; 
+}
+table{
+    font-size:60px;
+    color:skyblue;
+}
+td{
+    text-align:center;
+}
+a:link{
+    text-decoration:underline;
+    color:white;
+}
+a:active{
+    text-decoration:none;
+    color:white;
+}
+a:visited{
+    text-decoration:underline;
+    color:skyblue;
+}
+}
+
+@media screen and (min-device-width:2001px) and (max-device-width:2500px) {
+    table{width:90%}
+    body{
+    background:url(bayernfon.jpg);
+    background-repeat: repeat;
+    background-size:100%;
+    font-family:arial;
+}
+h1{
+    color:white;
+    font-size:100px;
     text-align:center;
 }
 .center{
@@ -403,20 +474,20 @@ h1{
     font-size:100px;
 }
 #four{
-    margin-right:103px;     
+    margin-right:300px;     
 }
 #five{
     width:150px;   
     }
-    #six{
+#six{
     width:700px; 
     }
 table{
     font-size:100px;
     color:skyblue;
 }
-     td{
-        text-align:center;
+td{
+    text-align:center;
     }
     a:link{
         text-decoration:underline;
@@ -432,7 +503,121 @@ table{
     }
 }
 
-@media screen and (min-device-width:3001px) and (max-device-width:4000px) {
+@media screen and (min-device-width:2001px) and (max-device-width:2500px) {
+    table{width:90%}
+    body{
+    background:url(bayernfon.jpg);
+    background-repeat: repeat;
+    background-size:100%;
+    font-family:arial;
+}
+h1{
+    color:white;
+    font-size:100px;
+    text-align:center;
+}
+.center{
+    margin-left:auto;
+    margin-right:auto;
+}
+#one{
+    color:gold;
+}
+#two{
+    color:silver;
+}
+#three{
+    border:solid;
+    font-size:100px;
+}
+#four{
+    margin-right:300px;     
+}
+#five{
+    width:150px;   
+    }
+#six{
+    width:700px; 
+    }
+table{
+    font-size:100px;
+    color:skyblue;
+}
+td{
+    text-align:center;
+    }
+    a:link{
+        text-decoration:underline;
+        color:white;
+    }
+    a:active{
+        text-decoration:none;
+        color:white;
+    }
+    a:visited{
+        text-decoration:underline;
+        color:skyblue;
+    }
+}
+
+@media screen and (min-device-width:2501px) and (max-device-width:3000px) {
+    table{width:90%}
+    body{
+    background:url(bayernfon.jpg);
+    background-repeat: repeat;
+    background-size:100%;
+    font-family:arial;
+}
+h1{
+    color:white;
+    font-size:140px;
+    text-align:center;
+}
+.center{
+    margin-left:auto;
+    margin-right:auto;
+}
+#one{
+    color:gold;
+}
+#two{
+    color:silver;
+}
+#three{
+    border:solid;
+    font-size:100px;
+}
+#four{
+    margin-right:300px;     
+}
+#five{
+    width:150px;   
+    }
+#six{
+    width:700px; 
+    }
+table{
+    font-size:100px;
+    color:skyblue;
+}
+td{
+    text-align:center;
+    }
+a:link{
+    text-decoration:underline;
+    color:white;
+    }
+a:active{
+    text-decoration:none;
+    color:white;
+    }
+a:visited{
+    text-decoration:underline;
+    color:skyblue;
+    }
+}
+
+@media screen and (min-device-width:3001px) and (max-device-width:3500px) {
     table{width:90%}
    body{
     background:url(bayernfon.jpg) top;
@@ -474,6 +659,63 @@ table{
 }
      td{
         text-align:center;
+    }
+    a:link{
+        text-decoration:underline;
+        color:white;
+    }
+    a:active{
+        text-decoration:none;
+        color:white;
+    }
+    a:visited{
+        text-decoration:underline;
+        color:skyblue;
+    }
+}
+
+@media screen and (min-device-width:3501px) and (max-device-width:4000px) {
+    table{width:90%}
+    body{
+    background:url(bayernfon.jpg);
+    background-repeat: repeat;
+    background-size:100%;
+    font-family:arial;
+}
+h1{
+    color:white;
+    font-size:100px;
+    text-align:center;
+}
+.center{
+    margin-left:auto;
+    margin-right:auto;
+}
+#one{
+    color:gold;
+}
+#two{
+    color:silver;
+}
+#three{
+    border:solid;
+    font-size:100px;
+}
+#four{
+    margin-right:300px;     
+}
+#five{
+    width:150px;   
+    }
+#six{
+    width:700px; 
+    }
+table{
+    font-size:100px;
+    color:skyblue;
+}
+td{
+    text-align:center;
     }
     a:link{
         text-decoration:underline;
