@@ -111,19 +111,19 @@ h2{
     margin-right:auto; 
 }
 table{
- font-size:35px;
-    width:650px;
+ font-size:30px;
+    width:500px;
     color:white;
 }
 #one{
     width:60px;
 }
 #two{
-    height:210px;
-    width:400px;
+    height:170px;
+    width:300px;
 }
 #three{
-    width:1400px;
+    width:1000px;
     }
 #four{
       width:80px;  
@@ -144,31 +144,31 @@ td{
 h1{
     color:white;
     text-align:center;
-    font-size:50px;
+    font-size:45px;
 }
 h2{
     color:white;
     text-align:center;
-    font-size:40px;
+    font-size:35px;
 }
 .center{
     margin-left:auto;
     margin-right:auto; 
 }
 table{
- font-size:30px;
+ font-size:28px;
     width:450px;
     color:white;
 }
 #one{
-    width:70px;
+    width:65px;
 }
 #two{
     height:160px;
     width:300px;
 }
 #three{
-    width:1400px;
+    width:1000px;
     }
 #four{
       width:80px;  
@@ -189,7 +189,7 @@ td{
 h1{
     color:white;
     text-align:center;
-    font-size:50px;
+    font-size:45px;
 }
 h2{
     color:white;
@@ -206,17 +206,17 @@ table{
     width:481px;
 }
 #one{
-    width:80px;
+    width:70px;
 }
 #two{
-    height:180px;
-    width:350px;
+    height:160px;
+    width:300px;
 }
 #three{
-    width:1400px;
+    width:1000px;
     }
 #four{
-      width:80px;  
+      width:70px;  
     }
 td{
     text-align:center;
@@ -251,14 +251,14 @@ table{
     width:504px;
 }
 #one{
-    width:90px;
+    width:80px;
 }
 #two{
     height:210px;
     width:400px;
 }
 #three{
-    width:1400px;
+    width:1300px;
     }
 #four{
       width:80px;  
@@ -268,7 +268,7 @@ td{
 }
 }
 
-@media screen and (min-device-width:1300px) and (max-device-width:2000px) {
+@media screen and (min-device-width:1300px) and (max-device-width:1450px) {
     table{width:90%}
 body{
     background:url(indexbarcelonafon.jpg) top fixed;
@@ -313,6 +313,141 @@ td{
 }
 }
 
+@media screen and (min-device-width:1451px) and (max-device-width:1600px) {
+    table{width:90%}
+body{
+    background:url(indexbarcelonafon.jpg) top fixed;
+    background-repeat: repeat;
+    background-size:100%;
+    font-family:arial;
+}
+h1{
+    color:white;
+    text-align:center;
+    font-size:50px;
+}
+h2{
+    color:white;
+    text-align:center;
+    font-size:40px;
+}
+.center{
+    margin-left:auto;
+    margin-right:auto; 
+}
+table{
+ font-size:35px;
+    width:650px;
+    color:white;
+}
+#one{
+    width:75px;
+}
+#two{
+    height:210px;
+    width:400px;
+}
+#three{
+    width:1450px;
+    }
+#four{
+      width:80px;  
+    }
+td{
+    text-align:center;
+}
+}
+
+@media screen and (min-device-width:1601px) and (max-device-width:1800px) {
+    table{width:90%}
+body{
+    background:url(indexbarcelonafon.jpg) top fixed;
+    background-repeat: repeat;
+    background-size:100%;
+    font-family:arial;
+}
+h1{
+    color:white;
+    text-align:center;
+    font-size:60px;
+}
+h2{
+    color:white;
+    text-align:center;
+    font-size:50px;
+}
+.center{
+    margin-left:auto;
+    margin-right:auto; 
+}
+table{
+ font-size:37px;
+    width:750px;
+    color:white;
+}
+#one{
+    width:60px;
+}
+#two{
+    height:200px;
+    width:380px;
+}
+#three{
+    width:1600px;
+    }
+#four{
+      width:80px;  
+    }
+td{
+    text-align:center;
+}
+}
+
+@media screen and (min-device-width:1801px) and (max-device-width:2000px) {
+    table{width:90%}
+body{
+    background:url(indexbarcelonafon.jpg) top fixed;
+    background-repeat: repeat;
+    background-size:100%;
+    font-family:arial;
+}
+h1{
+    color:white;
+    text-align:center;
+    font-size:70px;
+}
+h2{
+    color:white;
+    text-align:center;
+    font-size:60px;
+}
+.center{
+    margin-left:auto;
+    margin-right:auto; 
+}
+table{
+    font-size:40px;
+    width:750px;
+    color:white;
+}
+#one{
+    width:90px;
+}
+#two{
+    height:240px;
+    width:480px;
+}
+#three{
+    width:1850px;
+    }
+#four{
+      width:100px;  
+    }
+td{
+    text-align:center;
+}
+}
+
 @media screen and (min-device-width:2001px) and (max-device-width:2500px) {
     table{width:90%}
     body{
@@ -348,7 +483,7 @@ table{
     width:550px;
 }
 #three{
-    width:1400px;
+    width:2400px;
     }
 #four{
       width:80px;  
@@ -414,12 +549,12 @@ td{
 h1{
     color:white;
     text-align:center;
-    font-size:145px;
+    font-size:125px;
 }
 h2{
     color:white;
     text-align:center;
-    font-size:110px;
+    font-size:100px;
 }
 .center{
     margin-left:auto;
@@ -435,13 +570,13 @@ table{
 }
 #two{
     height:430px;
-    width:700px;
+    width:800px;
 }
 #three{
-    width:1400px;
+    width:3000px;
     }
 #four{
-      width:80px;  
+      width:150px;  
     }
 td{
     text-align:center;
@@ -483,10 +618,10 @@ table{
     width:900px;
 }
 #three{
-    width:1400px;
+    width:3700px;
     }
 #four{
-      width:80px;  
+      width:220px;  
     }
 td{
     text-align:center;
