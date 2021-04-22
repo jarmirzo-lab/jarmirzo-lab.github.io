@@ -31,7 +31,7 @@ table{
     width:300px;
 }
 #three{
-    width:1400px;
+    width:970px;
     }
 #four{
       width:80px;  
@@ -62,7 +62,7 @@ h2{
     margin-right:auto; 
 }
 table{
- font-size:35px;
+ font-size:30px;
     width:450px;
     color:white;
 }
@@ -74,7 +74,7 @@ table{
     width:400px;
 }
 #three{
-    width:1400px;
+    width:1000px;
     }
 #four{
       width:80px;  
@@ -99,25 +99,26 @@ h1{
 h2{
     text-align:center;
     font-size:40px;
+    
 }
 .center{
     margin-left:auto;
     margin-right:auto; 
 }
 table{
- font-size:35px;
-    width:650px;
-    color:whit:
+ font-size:30px;
+    width:500px;
+    color:white;
 }
 #one{
-    width:60px;
+    width:70px;
 }
 #two{
     height:210px;
     width:400px;
 }
 #three{
-    width:1400px;
+    width:1000px;
     }
 #four{
       width:80px;  
@@ -160,7 +161,7 @@ table{
     width:300px;
 }
 #three{
-    width:1400px;
+    width:1000px;
     }
 #four{
       width:80px;  
@@ -196,14 +197,14 @@ table{
     width:481px;
 }
 #one{
-    width:80px;
+    width:70px;
 }
 #two{
     height:180px;
     width:350px;
 }
 #three{
-    width:1400px;
+    width:1000px;
     }
 #four{
       width:80px;  
@@ -256,7 +257,7 @@ td{
 }
 }
 
-@media screen and (min-device-width:1300px) and (max-device-width:2000px) {
+@media screen and (min-device-width:1300px) and (max-device-width:1600px) {
     table{width:90%}
 body{
     background:url(indexliverpoolfon.jpg) top fixed;
@@ -299,7 +300,93 @@ td{
 }
 }
 
-@media screen and (min-device-width:2001px) and (max-device-width:3000px) {
+@media screen and (min-device-width:1601px) and (max-device-width:2001px) {
+    table{width:90%}
+    body{
+    background:url(indexliverpoolfon.jpg) top fixed;
+    background-repeat: repeat;
+    background-size:100%;
+    font-family:arial;
+}
+h1{
+    text-align:center;
+    font-size:90px;
+}
+h2{
+    text-align:center;
+    font-size:80px;
+}
+.center{
+    margin-left:auto;
+    margin-right:auto; 
+}
+table{
+ font-size:60px;
+    width:750px;
+    color:white;
+}
+#one{
+    width:140px;
+}
+#two{
+    height:300px;
+    width:550px;
+}
+#three{
+    width:1400px;
+    }
+#four{
+      width:80px; 
+    }
+td{
+    text-align:center;
+}
+}
+
+@media screen and (min-device-width:2001px) and (max-device-width:2500px) {
+    table{width:90%}
+    body{
+    background:url(indexliverpoolfon.jpg) top fixed;
+    background-repeat: repeat;
+    background-size:100%;
+    font-family:arial;
+}
+h1{
+    text-align:center;
+    font-size:90px;
+}
+h2{
+    text-align:center;
+    font-size:80px;
+}
+.center{
+    margin-left:auto;
+    margin-right:auto; 
+}
+table{
+ font-size:60px;
+    width:750px;
+    color:white;
+}
+#one{
+    width:140px;
+}
+#two{
+    height:300px;
+    width:550px;
+}
+#three{
+    width:1400px;
+    }
+#four{
+      width:80px; 
+    }
+td{
+    text-align:center;
+}
+}
+
+@media screen and (min-device-width:2501px) and (max-device-width:3000px) {
     table{width:90%}
     body{
     background:url(indexliverpoolfon.jpg) top fixed;
@@ -386,6 +473,92 @@ td{
 }
 
 @media screen and (min-device-width:3501px) and (max-device-width:4000px) {
+    table{width:90%}
+  body{
+    background:url(indexliverpoolfon.jpg) top fixed;
+    background-repeat: repeat;
+    background-size:100%;
+    font-family:arial;
+}
+h1{
+    text-align:center;
+    font-size:165px;
+}
+h2{
+    text-align:center;
+    font-size:130px;
+}
+.center{
+    margin-left:auto;
+    margin-right:auto; 
+}
+table{
+ font-size:90px;
+    width:1700px;
+    color:white;
+}
+#one{
+    width:250px;
+}
+#two{
+    height:490px;
+    width:900px;
+}
+#three{
+    width:1400px;
+    }
+#four{
+      width:80px;  
+    }
+td{
+    text-align:center;
+}
+}
+
+@media screen and (min-device-width:4001px) and (max-device-width:4500px) {
+    table{width:90%}
+  body{
+    background:url(indexliverpoolfon.jpg) top fixed;
+    background-repeat: repeat;
+    background-size:100%;
+    font-family:arial;
+}
+h1{
+    text-align:center;
+    font-size:165px;
+}
+h2{
+    text-align:center;
+    font-size:130px;
+}
+.center{
+    margin-left:auto;
+    margin-right:auto; 
+}
+table{
+ font-size:90px;
+    width:1700px;
+    color:white;
+}
+#one{
+    width:250px;
+}
+#two{
+    height:490px;
+    width:900px;
+}
+#three{
+    width:1400px;
+    }
+#four{
+      width:80px;  
+    }
+td{
+    text-align:center;
+}
+}
+
+@media screen and (min-device-width:4501px) and (max-device-width:5000px) {
     table{width:90%}
   body{
     background:url(indexliverpoolfon.jpg) top fixed;

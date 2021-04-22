@@ -33,8 +33,7 @@ table{
     width:300px;
 }
 #three{
-    width:10
-        00px;
+    width:950px;
     }
 #four{
       width:80px;  
@@ -79,7 +78,7 @@ table{
     width:400px;
 }
 #three{
-    width:1400px;
+    width:970px;
     }
 #four{
       width:80px;  
@@ -113,8 +112,8 @@ h2{
 }
 table{
  font-size:35px;
-    width:650px;
-    color:whit:
+    width:500px;
+    color:white;
 }
 #one{
     width:60px;
@@ -124,7 +123,7 @@ table{
     width:400px;
 }
 #three{
-    width:1400px;
+    width:1000px;
     }
 #four{
       width:80px;  
@@ -158,18 +157,18 @@ h2{
 }
 table{
  font-size:30px;
-    width:450px;
+    width:400px;
     color:white;
 }
 #one{
-    width:70px;
+    width:60px;
 }
 #two{
     height:160px;
     width:300px;
 }
 #three{
-    width:1400px;
+    width:1000px;
     }
 #four{
       width:80px;  
@@ -180,6 +179,51 @@ td{
 }
 
 @media screen and (min-device-width:661px) and (max-device-width:1025px) {
+    table{width:90%}
+   body{
+    background:url(indexmilanfon.jpg) top fixed;
+    background-repeat: repeat;
+    background-size:100%;
+    font-family:arial;
+}
+h1{
+    text-align:center;
+    font-size:40px;
+    color:white;
+}
+h2{
+    text-align:center;
+    font-size:30px;
+    color:white;
+}
+.center{
+    margin-left:auto;
+    margin-right:auto; 
+}
+table{
+    color:white;
+ font-size:28px;
+    width:481px;
+}
+#one{
+    width:70px;
+}
+#two{
+    height:180px;
+    width:300px;
+}
+#three{
+    width:1020px;
+    }
+#four{
+      width:80px;  
+    }
+td{
+    text-align:center;
+}
+}
+
+@media screen and (min-device-width:1026px) and (max-device-width:1299px) {
     table{width:90%}
    body{
     background:url(indexmilanfon.jpg) top fixed;
@@ -203,18 +247,18 @@ h2{
 }
 table{
     color:white;
- font-size:35px;
-    width:481px;
+ font-size:30px;
+    width:504px;
 }
 #one{
-    width:80px;
+    width:75px;
 }
 #two{
-    height:180px;
-    width:350px;
+    height:200px;
+    width:380px;
 }
 #three{
-    width:1400px;
+    width:1300px;
     }
 #four{
       width:80px;  
@@ -224,9 +268,9 @@ td{
 }
 }
 
-@media screen and (min-device-width:1026px) and (max-device-width:1299px) {
+@media screen and (min-device-width:1300px) and (max-device-width:1600px) {
     table{width:90%}
-   body{
+body{
     background:url(indexmilanfon.jpg) top fixed;
     background-repeat: repeat;
     background-size:100%;
@@ -247,23 +291,29 @@ h2{
     margin-right:auto; 
 }
 table{
+ font-size:40px;
+    width:600px;
     color:white;
- font-size:35px;
-    width:504px;
 }
 #one{
-    width:90px;
+    width:60px;
 }
 #two{
     height:210px;
     width:400px;
 }
+#three{
+    width:1200px;
+    }
+#four{
+      width:80px;  
+    }
 td{
     text-align:center;
 }
 }
 
-@media screen and (min-device-width:1300px) and (max-device-width:2000px) {
+@media screen and (min-device-width:1601px) and (max-device-width:2000px) {
     table{width:90%}
 body{
     background:url(indexmilanfon.jpg) top fixed;
@@ -308,7 +358,52 @@ td{
 }
 }
 
-@media screen and (min-device-width:2001px) and (max-device-width:3000px) {
+@media screen and (min-device-width:2001px) and (max-device-width:2500px) {
+    table{width:90%}
+    body{
+    background:url(indexmilanfon.jpg) top fixed;
+    background-repeat: repeat;
+    background-size:100%;
+    font-family:arial;
+}
+h1{
+    text-align:center;
+    font-size:90px;
+    color:white;
+}
+h2{
+    text-align:center;
+    font-size:80px;
+    color:white;
+}
+.center{
+    margin-left:auto;
+    margin-right:auto; 
+}
+table{
+ font-size:60px;
+    width:750px;
+    color:white;
+}
+#one{
+    width:140px;
+}
+#two{
+    height:300px;
+    width:550px;
+}
+#three{
+    width:1400px;
+    }
+#four{
+      width:80px;  
+    }
+td{
+    text-align:center;
+}
+}
+
+@media screen and (min-device-width:2501px) and (max-device-width:3000px) {
     table{width:90%}
     body{
     background:url(indexmilanfon.jpg) top fixed;
@@ -399,6 +494,96 @@ td{
 }
 
 @media screen and (min-device-width:3501px) and (max-device-width:4000px) {
+    table{width:90%}
+  body{
+    background:url(indexmilanfon.jpg) top fixed;
+    background-repeat: repeat;
+    background-size:100%;
+    font-family:arial;
+}
+h1{
+    text-align:center;
+    font-size:165px;
+    color:white;
+}
+h2{
+    text-align:center;
+    font-size:130px;
+    color:white;
+}
+.center{
+    margin-left:auto;
+    margin-right:auto; 
+}
+table{
+ font-size:90px;
+    width:1700px;
+    color:white;
+}
+#one{
+    width:250px;
+}
+#two{
+    height:490px;
+    width:900px;
+}
+#three{
+    width:1400px;
+    }
+#four{
+      width:80px;  
+    }
+td{
+    text-align:center;
+}
+}
+
+@media screen and (min-device-width:4001px) and (max-device-width:4500px) {
+    table{width:90%}
+  body{
+    background:url(indexmilanfon.jpg) top fixed;
+    background-repeat: repeat;
+    background-size:100%;
+    font-family:arial;
+}
+h1{
+    text-align:center;
+    font-size:165px;
+    color:white;
+}
+h2{
+    text-align:center;
+    font-size:130px;
+    color:white;
+}
+.center{
+    margin-left:auto;
+    margin-right:auto; 
+}
+table{
+ font-size:90px;
+    width:1700px;
+    color:white;
+}
+#one{
+    width:250px;
+}
+#two{
+    height:490px;
+    width:900px;
+}
+#three{
+    width:1400px;
+    }
+#four{
+      width:80px;  
+    }
+td{
+    text-align:center;
+}
+}
+
+@media screen and (min-device-width:4501px) and (max-device-width:5000px) {
     table{width:90%}
   body{
     background:url(indexmilanfon.jpg) top fixed;

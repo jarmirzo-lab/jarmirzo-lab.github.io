@@ -31,7 +31,10 @@ h1{
      width:60px;   
     }
 #six{
-    width:100px; 
+    width:160px; 
+    }
+    #seven{
+        font-size:30px;
     }
 table{
     font-size:27.77px;
@@ -87,13 +90,13 @@ h1{
     width:65px;  
     }
 #six{
-    width:120px; 
+    width:150px; 
     }
 table{
     font-size:27.77px;
     color:white;
 }
-     td{
+    td{
         text-align:center;
     }
     a:link{

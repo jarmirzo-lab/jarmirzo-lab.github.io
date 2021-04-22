@@ -19,7 +19,7 @@ h2{
     margin-right:auto; 
 }
 table{
- font-size:35px;
+ font-size:30px;
     width:450px;
     color:white;
 }
@@ -31,7 +31,7 @@ table{
     width:300px;
 }
 #three{
-    width:1400px;
+    width:1000px;
     }
 #four{
       width:80px;  
@@ -62,7 +62,7 @@ h2{
     margin-right:auto; 
 }
 table{
- font-size:35px;
+ font-size:30px;
     width:450px;
     color:white;
 }
@@ -74,7 +74,7 @@ table{
     width:400px;
 }
 #three{
-    width:1400px;
+    width:950px;
     }
 #four{
       width:80px;  
@@ -105,9 +105,9 @@ h2{
     margin-right:auto; 
 }
 table{
- font-size:35px;
-    width:650px;
-    color:whit:
+ font-size:30px;
+    width:500px;
+    color:white
 }
 #one{
     width:60px;
@@ -117,7 +117,7 @@ table{
     width:400px;
 }
 #three{
-    width:1400px;
+    width:1000px;
     }
 #four{
       width:80px;  
@@ -160,10 +160,10 @@ table{
     width:300px;
 }
 #three{
-    width:1400px;
+    width:950px;
     }
 #four{
-      width:80px;  
+      width:60px;  
     }
 td{
     text-align:center;
@@ -196,14 +196,14 @@ table{
     width:481px;
 }
 #one{
-    width:80px;
+    width:70px;
 }
 #two{
-    height:180px;
+    height:190px;
     width:350px;
 }
 #three{
-    width:1400px;
+    width:1000px;
     }
 #four{
       width:80px;  
@@ -223,11 +223,11 @@ td{
 }
 h1{
     text-align:center;
-    font-size:55px;
+    font-size:65px;
 }
 h2{
     text-align:center;
-    font-size:45px;
+    font-size:55px;
 }
 .center{
     margin-left:auto;
@@ -246,7 +246,7 @@ table{
     width:400px;
 }
 #three{
-    width:1400px;
+    width:1300px;
     }
 #four{
       width:80px;  
@@ -256,7 +256,7 @@ td{
 }
 }
 
-@media screen and (min-device-width:1300px) and (max-device-width:2000px) {
+@media screen and (min-device-width:1300px) and (max-device-width:1600px) {
     table{width:90%}
 body{
     background:url(indexbayernfon.png) top fixed;
@@ -266,50 +266,7 @@ body{
 }
 h1{
     text-align:center;
-    font-size:50px;
-}
-h2{
-    text-align:center;
-    font-size:40px;
-}
-.center{
-    margin-left:auto;
-    margin-right:auto; 
-}
-table{
- font-size:35px;
-    width:650px;
-    color:white;
-}
-#one{
-    width:60px;
-}
-#two{
-    height:210px;
-    width:400px;
-}
-#three{
-    width:1400px;
-    }
-#four{
-      width:80px;  
-    }
-td{
-    text-align:center;
-}
-}
-
-@media screen and (min-device-width:2001px) and (max-device-width:3000px) {
-    table{width:90%}
-    body{
-    background:url(indexbayernfon.png) top fixed;
-    background-repeat: repeat;
-    background-size:100%;
-    font-family:arial;
-}
-h1{
-    text-align:center;
-    font-size:90px;
+    font-size:100px;
 }
 h2{
     text-align:center;
@@ -320,22 +277,151 @@ h2{
     margin-right:auto; 
 }
 table{
- font-size:60px;
-    width:750px;
+ font-size:65px;
+    width:850px;
+    color:white;
+}
+#one{
+    width:100px;
+}
+#two{
+    height:380px;
+    width:700px;
+}
+#three{
+    width:1900px;
+    }
+#four{
+      width:150px;  
+    }
+td{
+    text-align:center;
+}
+}
+
+@media screen and (min-device-width:1601px) and (max-device-width:2000px) {
+    table{width:90%}
+body{
+    background:url(indexbayernfon.png) top fixed;
+    background-repeat: repeat;
+    background-size:100%;
+    font-family:arial;
+}
+h1{
+    text-align:center;
+    font-size:100px;
+}
+h2{
+    text-align:center;
+    font-size:80px;
+}
+.center{
+    margin-left:auto;
+    margin-right:auto; 
+}
+table{
+ font-size:65px;
+    width:850px;
+    color:white;
+}
+#one{
+    width:100px;
+}
+#two{
+    height:380px;
+    width:700px;
+}
+#three{
+    width:1900px;
+    }
+#four{
+      width:150px;  
+    }
+td{
+    text-align:center;
+}
+}
+
+@media screen and (min-device-width:2001px) and (max-device-width:2500px) {
+    table{width:90%}
+    body{
+    background:url(indexbayernfon.png) top fixed;
+    background-repeat: repeat;
+    background-size:100%;
+    font-family:arial;
+}
+h1{
+    text-align:center;
+    font-size:130px;
+}
+h2{
+    text-align:center;
+    font-size:100px;
+}
+.center{
+    margin-left:auto;
+    margin-right:auto; 
+}
+table{
+ font-size:80px;
+    width:1350px;
     color:white;
 }
 #one{
     width:140px;
 }
 #two{
-    height:300px;
-    width:550px;
+    height:500px;
+    width:850px;
 }
 #three{
-    width:1400px;
+    width:2900px;
     }
 #four{
-      width:80px;  
+      width:190px;  
+    }
+td{
+    text-align:center;
+}
+}
+
+@media screen and (min-device-width:2501px) and (max-device-width:3000px) {
+    table{width:90%}
+    body{
+    background:url(indexbayernfon.png) top fixed;
+    background-repeat: repeat;
+    background-size:100%;
+    font-family:arial;
+}
+h1{
+    text-align:center;
+    font-size:130px;
+}
+h2{
+    text-align:center;
+    font-size:100px;
+}
+.center{
+    margin-left:auto;
+    margin-right:auto; 
+}
+table{
+ font-size:80px;
+    width:1350px;
+    color:white;
+}
+#one{
+    width:140px;
+}
+#two{
+    height:500px;
+    width:850px;
+}
+#three{
+    width:2900px;
+    }
+#four{
+      width:190px;  
     }
 td{
     text-align:center;
@@ -371,14 +457,14 @@ table{
     width:190px;
 }
 #two{
-    height:430px;
-    width:700px;
+    height:530px;
+    width:850px;
 }
 #three{
-    width:1400px;
+    width:3400px;
     }
 #four{
-      width:80px;  
+      width:400px;  
     }
 td{
     text-align:center;
@@ -418,10 +504,10 @@ table{
     width:900px;
 }
 #three{
-    width:1400px;
+    width:4000px;
     }
 #four{
-      width:80px;  
+      width:400px;  
     }
 td{
     text-align:center;

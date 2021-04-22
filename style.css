@@ -483,9 +483,9 @@
 @media screen and (min-device-width:4501px) and (max-device-width:5000px) {
     table{width:90%}
     body{
+        background:url(mainfon.png);
         background-size:100%;
         background-repeat: no-repeat;
-        background:url(mainfon.png);
         font-family:arial;
         color:white;
     }

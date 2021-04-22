@@ -2,6 +2,7 @@
     table{width:90%}
     body{
     background:url(barcelonafon.jpeg) top;
+    background-size:100%;
     background-repeat: repeat;
     font-family:arial;
 }
@@ -25,13 +26,13 @@ h1{
     font-size:40px;
 }
 #four{
-    margin-right:53px;     
+    margin-right:33px;     
 }
 #five{
     width:60px;      
 }
 #six{
-    width:100px; 
+    width:200px; 
     }
 table{
     font-size:27.77px;
@@ -449,7 +450,63 @@ a:visited{
     }
 }
 
-@media screen and (min-device-width:3001px) and (max-device-width:4000px) {
+@media screen and (min-device-width:3001px) and (max-device-width:3500px) {
+    table{width:90%}
+   body{
+    background:url(barcelonafon.jpeg) top;
+    background-repeat: repeat;
+    background-size:100%;
+    font-family:arial;
+}
+h1{
+    color:white;
+    font-size:240px;
+    text-align:center;
+}
+.center{
+    margin-left:auto;
+    margin-right:auto;
+}
+#one{
+    color:gold;
+}
+#two{
+    color:silver;
+}
+#three{
+    border:solid;
+    font-size:140px;
+}
+#four{
+    margin-right:500px;     
+}
+#five{
+    width:300px;   
+    }
+#six{
+    width:1000px; 
+    }
+table{
+    font-size:100px;
+    color:white;
+}
+td{
+    text-align:center;
+    }
+a:link{
+    text-decoration:underline;
+    color:white;
+    }
+a:active{
+    text-decoration:none;
+    color:skyblue;
+    }
+a:visited{
+    text-decoration:none;
+    }
+}
+
+@media screen and (min-device-width:3501px) and (max-device-width:4000px) {
     table{width:90%}
    body{
     background:url(barcelonafon.jpeg) top;
