@@ -258,7 +258,136 @@ td{
 }
 }
 
-@media screen and (min-device-width:1300px) and (max-device-width:2000px) {
+@media screen and (min-device-width:1300px) and (max-device-width:1450px) {
+    table{width:90%}
+body{
+    background:url(indexrealmadridfon.png) top fixed;
+    background-repeat: repeat;
+    background-size:100%;
+    font-family:arial;
+}
+h1{
+    text-align:center;
+    font-size:55px;
+}
+h2{
+    text-align:center;
+    font-size:45px;
+}
+.center{
+    margin-left:auto;
+    margin-right:auto; 
+}
+table{
+    font-size:35px;
+    width:500px;
+    color:white;
+}
+#one{
+    width:80px;
+}
+#two{
+    height:190px;
+    width:350px;
+}
+#three{
+    width:1280px;
+    }
+#four{
+    width:80px;  
+    }
+td{
+    text-align:center;
+}
+}
+
+@media screen and (min-device-width:1451px) and (max-device-width:1600px) {
+    table{width:90%}
+body{
+    background:url(indexrealmadridfon.png) top fixed;
+    background-repeat: repeat;
+    background-size:100%;
+    font-family:arial;
+}
+h1{
+    text-align:center;
+    font-size:70px;
+}
+h2{
+    text-align:center;
+    font-size:55px;
+}
+.center{
+    margin-left:auto;
+    margin-right:auto; 
+}
+table{
+    font-size:40px;
+    width:550px;
+    color:white;
+}
+#one{
+    width:85px;
+}
+#two{
+    height:280px;
+    width:500px;
+}
+#three{
+    width:1550px;
+    }
+#four{
+    width:100px;  
+    }
+td{
+    text-align:center;
+}
+}
+
+@media screen and (min-device-width:1601px) and (max-device-width:1800px) {
+    table{width:90%}
+body{
+    background:url(indexrealmadridfon.png) top fixed;
+    background-repeat: repeat;
+    background-size:100%;
+    font-family:arial;
+}
+h1{
+    text-align:center;
+    font-size:90px;
+}
+h2{
+    text-align:center;
+    font-size:75px;
+}
+.center{
+    margin-left:auto;
+    margin-right:auto; 
+}
+table{
+    font-size:60px;
+    width:850px;
+    color:white;
+}
+#one{
+    width:130px;
+}
+#two{
+    height:320px;
+    width:600px;
+}
+#three{
+    width:1980px;
+    }
+#four{
+    width:150px;  
+    }
+td{
+    text-align:center;
+}
+}
+
+@media screen and (min-device-width:1801px) and (max-device-width:2000px) {
     table{width:90%}
 body{
     background:url(indexrealmadridfon.png) top fixed;
