@@ -51,18 +51,18 @@ td{
 }
 h1{
     text-align:center;
-    font-size:50px;
+    font-size:45px;
 }
 h2{
     text-align:center;
-    font-size:40px;
+    font-size:39px;
 }
 .center{
     margin-left:auto;
     margin-right:auto; 
 }
 table{
- font-size:30px;
+ font-size:29px;
     width:450px;
     color:white;
 }
@@ -70,8 +70,8 @@ table{
     width:70px;
 }
 #two{
-    height:210px;
-    width:400px;
+    height:180px;
+    width:340px;
 }
 #three{
     width:1000px;
